@@ -1,6 +1,10 @@
 # Musicians Personal Handbook
 
-## About this project
+Just a fun little project that I did for a final in either computing I or computing II back during my first
+year of school. Lots of spaghetti ugly OOP code, but a cool idea and implementation for sound production
+nonetheless.
+
+## About this project (original description)
 Musicians Personal Handbook is designed to help people that are eager to learn music theory or write their songs
 by providing them with music scales, their different modes, and chords that fall within them. The
 program is designed to be especially helpful for musicians that play a stringed instrument, as it
